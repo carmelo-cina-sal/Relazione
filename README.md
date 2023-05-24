@@ -1,3 +1,3 @@
 # Relazione
 Scrittura collaborativa
-Diego
+Diego Rinaldi
